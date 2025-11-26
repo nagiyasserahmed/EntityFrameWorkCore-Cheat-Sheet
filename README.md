@@ -1,4 +1,4 @@
-````markdown
+
 # 📚 Entity Framework Core - The Complete Developer's Guide
 
 A comprehensive, structured guide covering the fundamental concepts, advanced configurations, and best practices for working with Entity Framework Core (EF Core). Use this as a reference for learning and revision.
